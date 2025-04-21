@@ -1,0 +1,13 @@
+Mostly sari practice apiDemoAppAutomaton2 main kee hai.
+
+1. SampleAppiumTest1 i wrote first
+2. apiDemoAppAutomaton2 i written that by seeing video of https://www.youtube.com/watch?v=4Gds5fq0YdY&list=PLEiBaBxmVLi-kVbqBdMO8A97G2bA9sFGt&index=9
+   ismen long press hai.
+   2.1 (23 Nov 2024)screenshot lena kainse hai  ismen code hai.
+   2.2 (23 Nov 2024) how to take the toast message ye bhi hai. Jab toast message aata hai appium inspector ko tuarant se capture karne and uska xpath ya id se locator find kar le.
+3. SacuabAppAutomation 3 is writtne that by seeing video of https://www.youtube.com/watch?v=4Gds5fq0YdY&list=PLEiBaBxmVLi-kVbqBdMO8A97G2bA9sFGt&index=9
+4. AppiumLaunchViaCode4 where you dont have to open command prompt or powershell for starting appium, by code itself server will launch.
+5. Now swipe up and swipe right start. isme server code se launch kar raha hoon.
+6. 24 Nov 2024  Drag and drop code mentioed under the AppiumLauchViaCode, and under thatn drag and drop
+and scrolling is presnet.
+7. Need to do scrollable s till partiuclar text:

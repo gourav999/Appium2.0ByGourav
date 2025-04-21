@@ -1,0 +1,97 @@
+[
+	{
+		"key": "elementId",
+		"value": "00000000-0000-0110-ffff-ffff00000020",
+		"name": "elementId"
+	},
+	{
+		"key": "index",
+		"value": "1",
+		"name": "index"
+	},
+	{
+		"key": "package",
+		"value": "io.appium.android.apis",
+		"name": "package"
+	},
+	{
+		"key": "class",
+		"value": "android.widget.TextView",
+		"name": "class"
+	},
+	{
+		"key": "text",
+		"value": "Activity",
+		"name": "text"
+	},
+	{
+		"key": "content-desc",
+		"value": "Activity",
+		"name": "content-desc"
+	},
+	{
+		"key": "resource-id",
+		"value": "android:id/text1",
+		"name": "resource-id"
+	},
+	{
+		"key": "checkable",
+		"value": "false",
+		"name": "checkable"
+	},
+	{
+		"key": "checked",
+		"value": "false",
+		"name": "checked"
+	},
+	{
+		"key": "clickable",
+		"value": "true",
+		"name": "clickable"
+	},
+	{
+		"key": "enabled",
+		"value": "true",
+		"name": "enabled"
+	},
+	{
+		"key": "focusable",
+		"value": "false",
+		"name": "focusable"
+	},
+	{
+		"key": "focused",
+		"value": "false",
+		"name": "focused"
+	},
+	{
+		"key": "long-clickable",
+		"value": "false",
+		"name": "long-clickable"
+	},
+	{
+		"key": "password",
+		"value": "false",
+		"name": "password"
+	},
+	{
+		"key": "scrollable",
+		"value": "false",
+		"name": "scrollable"
+	},
+	{
+		"key": "selected",
+		"value": "false",
+		"name": "selected"
+	},
+	{
+		"key": "bounds",
+		"value": "[0,421][1080,565]",
+		"name": "bounds"
+	},
+	{
+		"key": "displayed",
+		"value": "true",
+		"name": "displayed"
+	}
+]

@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "text",
+      "name": "appium:automationName",
+      "value": "UiAutomator2"
+    },
+    {
+      "type": "text",
+      "name": "platformName",
+      "value": "Android"
+    },
+    {
+      "type": "text",
+      "name": "appium:platformVersion",
+      "value": "13"
+    },
+    {
+      "type": "text",
+      "name": "appium:deviceName",
+      "value": "ST5GDM23LB005246"
+    },
+    {
+      "type": "text",
+      "name": "appium:app",
+      "value": "C:/Users/gourav.b.jain/Downloads/selendroid-test-app.apk"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {
+      "hostname": "127.0.0.1",
+      "port": "4723"
+    },
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "advanced": {
+      "allowUnauthorized": true
+    },
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {},
+    "remotetestkit": {},
+    "mobitru": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}
