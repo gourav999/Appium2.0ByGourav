@@ -19,7 +19,7 @@ public class A0_UIAutomator2OptionsGourav {
         UiAutomator2Options options = new UiAutomator2Options();
         options
                 .setPlatformName("android")
-                .setPlatformVersion("13")
+                .setPlatformVersion("14")
                 .setAutomationName("UiAutomator2")
                 .setDeviceName("ST5GDM23LB005246")  //here you can put emulator as well if you open android studio and emulator is there
                 .setAppPackage("io.appium.android.apis")
